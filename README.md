@@ -1,4 +1,9 @@
-## Hi there 👋
+## Sobre mim
+Meu nome é Fernando Augusto Teixeira, sou Bacharel em Ciência da Computação e entusiasta por tecnologia e programação. Estou animado para começar minha jornada profissional e contribuir para projetos incríveis utilizando as principais técnologias do mercado.
+
+## Valores
+Valorizo profundamente as boas práticas de programação, como escrever código limpo, modular e bem documentado. Acredito que um código bem estruturado não só facilita a manutenção, mas também promove uma colaboração eficaz em equipe. Estou comprometido em seguir padrões de codificação estabelecidos e em aprender continuamente novas práticas para melhorar minha habilidade como desenvolvedor.
+
 
 <!--
 **Feraugtei/Feraugtei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
