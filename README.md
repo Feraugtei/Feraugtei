@@ -17,11 +17,8 @@ Valorizo profundamente as boas práticas de programação, como escrever código
 Estou em busca de oportunidades para desenvolver minhas habilidades técnicas, contribuir para projetos interessantes e aprender com profissionais experientes. Estou aberto a contratações em qualquer modalidades de trabalho, projetos freelance e outras oportunidades de crescimento profissional.
 
 ## Contato
-- <a href=“https://www.linkedin.com/in/fernando-augusto-teixeira-55271b206“>Linkedin</a>
-- <a href=“mailto:feraugtei@gmail.com“>Email</a>
-
-## Agradecimentos
-Agradeço por visitar meu perfil do GitHub e se interessar pelo meu trabalho. Sinta-se à vontade para explorar meus projetos e entrar em contato comigo se tiver alguma pergunta ou oportunidade de colaboração.
+- [Linkedin](https://www.linkedin.com/in/fernando-augusto-teixeira-55271b206)
+- [Email](mailto:feraugtei@gmail.com)
 
 <!--
 **Feraugtei/Feraugtei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
