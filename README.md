@@ -1,4 +1,4 @@
-## About me <span style="margin-left:4px"></span> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+## About me <span style="margin-left:20px"></span> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 My name is Fernando Augusto Teixeira. I have a Bachelor's degree in Computer Science and am a technology and programming enthusiast. I am excited to begin my professional journey and contribute to amazing projects using the latest technologies in the market.
 
 ## Knowledge
