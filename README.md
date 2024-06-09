@@ -15,8 +15,6 @@ I possess knowledge of various important technologies and have a deep interest i
   
 - Git and Version Control: I am comfortable using Git for version control and collaboration on projects.
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feraugtei&theme=tokyonight)
-
 ## Values
 I deeply value good programming practices, such as writing clean, modular, and well-documented code. I believe that well-structured code not only eases maintenance but also promotes effective team collaboration. I am committed to following established coding standards and continuously learning new practices to improve my skills as a developer.
 
@@ -26,6 +24,8 @@ I am seeking opportunities to develop my technical skills, contribute to interes
 ## Contact
 - [Linkedin](https://www.linkedin.com/in/fernando-augusto-teixeira-55271b206)
 - [Email](mailto:feraugtei@gmail.com)
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feraugtei&theme=tokyonight)
 
 <!--
 **Feraugtei/Feraugtei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
