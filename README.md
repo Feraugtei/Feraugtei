@@ -1,7 +1,7 @@
-## About me <span style="margin-left:20px"></span> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+## About me <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 My name is Fernando Augusto Teixeira. I have a Bachelor's degree in Computer Science and am a technology and programming enthusiast. I am excited to begin my professional journey and contribute to amazing projects using the latest technologies in the market.
 
-## Knowledge
+## Knowledge 💬
 I possess knowledge of various important technologies and have a deep interest in Front-End development. I participated in several team projects in college, where I put into practice and refined my teamwork and cooperation skills. Among my learnings and experiences, I can highlight:
 - Programming Languages: I am familiar with languages such as Python, Java, JavaScript, and C++.
 
@@ -14,6 +14,8 @@ I possess knowledge of various important technologies and have a deep interest i
 - Software Engineering: I have experience with software documentation and agile methodologies like Scrum.
   
 - Git and Version Control: I am comfortable using Git for version control and collaboration on projects.
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feraugtei&theme=tokyonight)
 
 ## Values
 I deeply value good programming practices, such as writing clean, modular, and well-documented code. I believe that well-structured code not only eases maintenance but also promotes effective team collaboration. I am committed to following established coding standards and continuously learning new practices to improve my skills as a developer.
