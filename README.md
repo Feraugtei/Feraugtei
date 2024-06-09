@@ -27,7 +27,7 @@ I deeply value good programming practices, such as writing clean, modular, and w
 I am seeking opportunities to develop my technical skills, contribute to interesting projects, and learn from experienced professionals. I am open to hiring in any work modality, freelance projects, and other professional growth opportunities.
 
 ## Contact
-- [Linkedin](https://www.linkedin.com/in/fernando-augusto-teixeira-55271b206)
+[<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in.svg'>](https://www.linkedin.com/in/fernando-augusto-teixeira-55271b206)
 - [Email](mailto:feraugtei@gmail.com)
   
 
