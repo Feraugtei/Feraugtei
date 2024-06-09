@@ -1,22 +1,22 @@
-## Sobre mim
-Meu nome é Fernando Augusto Teixeira, sou Bacharel em Ciência da Computação e entusiasta por tecnologia e programação. Estou animado para começar minha jornada profissional e contribuir para projetos incríveis utilizando as principais técnologias do mercado.
+## About me 
+My name is Fernando Augusto Teixeira. I have a Bachelor's degree in Computer Science and am a technology and programming enthusiast. I am excited to begin my professional journey and contribute to amazing projects using the latest technologies in the market.
 
-## Conhecimentos
-Possuo conhecimento em diversas técnologias importantes, e me interesso profundamente pelo desenvolvimento de Front-End. Participei de varios projetos em equipe na faculdade, onde coloquei em pratica e aperfeiçoei minhas habilidades de trabalho em grupo e cooperação.
-Dentre os meus aprendizados e experiências posso destacar:
-- Linguagens de Programação: Estou familiarizado com linguagens como Python, Java, JavaScript e C++.
-- Desenvolvimento Web: Tenho conhecimento em HTML, CSS e estou aprendendo frameworks como React e Node.js.
-- Bancos de Dados: Tenho experiência básica com PostreSQL e estou ansioso para aprender mais sobre bancos de dados relacionais e NoSQL.
-- Algoritmos e Estrutura de Dados: Possuo uma compreensão sólida de algoritmos e estruturas de dados fundamentais.
-- Git e Controle de Versão: Estou confortável usando o Git para controle de versão e colaboração em projetos.
+## Knowledge
+I possess knowledge of various important technologies and have a deep interest in Front-End development. I participated in several team projects in college, where I put into practice and refined my teamwork and cooperation skills. Among my learnings and experiences, I can highlight:
+-Programming Languages: I am familiar with languages such as Python, Java, JavaScript, and C++.
+-Web Development: I have knowledge of HTML and CSS and am currently learning frameworks like React and Node.js.
+-Databases: I have basic experience with PostgreSQL and am eager to learn more about relational and NoSQL databases.
+-Algorithms and Data Structures: I have a solid understanding of fundamental algorithms and data structures.
+-Software Engineering: I have experience with software documentation and agile methodologies like Scrum.
+-Git and Version Control: I am comfortable using Git for version control and collaboration on projects.
 
-## Valores
-Valorizo profundamente as boas práticas de programação, como escrever código limpo, modular e bem documentado. Acredito que um código bem estruturado não só facilita a manutenção, mas também promove uma colaboração eficaz em equipe. Estou comprometido em seguir padrões de codificação estabelecidos e em aprender continuamente novas práticas para melhorar minha habilidade como desenvolvedor.
+## Values
+I deeply value good programming practices, such as writing clean, modular, and well-documented code. I believe that well-structured code not only eases maintenance but also promotes effective team collaboration. I am committed to following established coding standards and continuously learning new practices to improve my skills as a developer.
 
-## Objetivos
-Estou em busca de oportunidades para desenvolver minhas habilidades técnicas, contribuir para projetos interessantes e aprender com profissionais experientes. Estou aberto a contratações em qualquer modalidades de trabalho, projetos freelance e outras oportunidades de crescimento profissional.
+## Objectives
+I am seeking opportunities to develop my technical skills, contribute to interesting projects, and learn from experienced professionals. I am open to hiring in any work modality, freelance projects, and other professional growth opportunities.
 
-## Contato
+## Contact
 - [Linkedin](https://www.linkedin.com/in/fernando-augusto-teixeira-55271b206)
 - [Email](mailto:feraugtei@gmail.com)
 
