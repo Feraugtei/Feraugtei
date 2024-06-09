@@ -12,14 +12,13 @@ I possess knowledge of various important technologies and have a deep interest i
 - Algorithms and Data Structures: I have a solid understanding of fundamental algorithms and data structures.
   
 - Software Engineering: I have experience with software documentation and agile methodologies like Scrum.
-  
-- Git and Version Control: I am comfortable using Git for version control and collaboration on projects.
 
 [<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>](https://github.com/Feraugtei?tab=repositories&q=&type=&language=python&sort=)
 [<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>](https://github.com/Feraugtei?tab=repositories&q=&type=&language=javascript&sort=)
 [<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>](https://github.com/Feraugtei?tab=repositories&q=&type=&language=css&sort=)
 [<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>](https://github.com/Feraugtei?tab=repositories&q=&type=&language=html&sort=)
 [<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'>](https://github.com/Feraugtei?tab=repositories&q=&type=&language=csharp&sort=)
+[<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>](https://github.com/Feraugtei?tab=repositories&q=&type=&language=java&sort=)
 
 ## Values
 I deeply value good programming practices, such as writing clean, modular, and well-documented code. I believe that well-structured code not only eases maintenance but also promotes effective team collaboration. I am committed to following established coding standards and continuously learning new practices to improve my skills as a developer.
