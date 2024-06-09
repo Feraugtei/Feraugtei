@@ -4,7 +4,7 @@ My name is Fernando Augusto Teixeira. I have a Bachelor's degree in Computer Sci
 ## Knowledge
 I possess knowledge of various important technologies and have a deep interest in Front-End development. I participated in several team projects in college, where I put into practice and refined my teamwork and cooperation skills. Among my learnings and experiences, I can highlight:
 - Programming Languages: I am familiar with languages such as Python, Java, JavaScript, and C++.
-- 
+  
 - Web Development: I have knowledge of HTML and CSS and am currently learning frameworks like React and Node.js.
 
 - Databases: I have basic experience with PostgreSQL and am eager to learn more about relational and NoSQL databases.
