@@ -20,15 +20,14 @@ I possess knowledge of various important technologies and have a deep interest i
 [<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'>](https://github.com/Feraugtei?tab=repositories&q=&type=&language=csharp&sort=)
 [<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>](https://github.com/Feraugtei?tab=repositories&q=&type=&language=java&sort=)
 
-## Values
+## Values 🛠️
 I deeply value good programming practices, such as writing clean, modular, and well-documented code. I believe that well-structured code not only eases maintenance but also promotes effective team collaboration. I am committed to following established coding standards and continuously learning new practices to improve my skills as a developer.
 
-## Objectives
+## Objectives 🎯
 I am seeking opportunities to develop my technical skills, contribute to interesting projects, and learn from experienced professionals. I am open to hiring in any work modality, freelance projects, and other professional growth opportunities.
 
-## Contact
+## Contact 📫
 [<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg'>](https://www.linkedin.com/in/fernando-augusto-teixeira-55271b206)
-<span style='margin-left:30px'></span>
 [<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40px" />](mailto:feraugtei@gmail.com)
   
 
